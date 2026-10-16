@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import "tailwindcss";
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+@media (max-width: 640px) {
+  a.active {
+    background-color:black;
+    color:white;
+  }
+}
